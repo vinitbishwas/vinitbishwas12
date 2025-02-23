@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinit Bishwas</h1>
 <h3 align="center">I'm currently Studying Computer Science</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/f0/ad/a3/f0ada3101971c622e8a1e10ab3c11713.jpg">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-JxPXLGwQRU6xOmrtNB0yUSjunswAjuCMiw&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinitbishwas12&label=Profile%20views&color=0e75b6&style=flat" alt="vinitbishwas12" /> </p>
 
